@@ -6,7 +6,6 @@
 * [this 에 대해서](#this-에-대해서)
 * [Promise](#promise)
 * [Arrow Function](#arrow-function)
-
 [뒤로](https://github.com/JaeYeopHan/for_beginner)
 
 ## JavaScript Event Loop
